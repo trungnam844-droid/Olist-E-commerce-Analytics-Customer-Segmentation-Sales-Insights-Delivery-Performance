@@ -194,8 +194,6 @@ Top categories:
 
 ## 📎 Project Structure
 
-## 📎 Project Structure
-
 ```
 olist-ecommerce-analysis/
 │
