@@ -238,4 +238,4 @@ olist-ecommerce-analysis/
 
 ## 👤 Author
 **Nam Tran**  
-Aspiring Data Analyst | Financial Data Analyst
+Data Analyst | Financial Data Analyst
