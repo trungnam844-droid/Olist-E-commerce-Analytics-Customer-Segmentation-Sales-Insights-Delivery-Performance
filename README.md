@@ -21,6 +21,11 @@ The objective is to transform raw data into **actionable business insights** and
 
 ---
 
+## 🧩 Data Model
+![Data Model](images/data_model.png)
+
+---
+
 ## 📊 Dashboard Preview
 
 ### 🔹 Executive Overview
